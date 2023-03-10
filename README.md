@@ -35,5 +35,6 @@ To add audio to the avi file
 `ffmpeg -i output.avi -i ../audio/FlightofTheBumblebee.wav \
 -shortest -c:v copy -c:a aac video.avi`
 
-An example of such video is
+Examples of such videos are
 https://www.youtube.com/watch?v=4IMdNv5GrJk
+https://www.youtube.com/shorts/YaYGoO1yxlA
